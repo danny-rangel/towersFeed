@@ -4,6 +4,6 @@ Quick React Native app I made that fetches the most recent posts from the Towers
 
 To run, clone repo onto your computer.
 
-Download dependencies with npm install
+Download dependencies with npm install.
 
-Type "react-native run-ios" if you're on a Mac to run the simulator
+Run "react-native run-ios" if you're on a Mac to run the simulator.
